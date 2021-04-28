@@ -11,7 +11,7 @@ def main():
     print("2**3={}".format(2**3))
     print("(8+8)/4={}".format((8+8)/4))
     print("√25={}".format(math.sqrt(25)))
-    print ("{:.2f}.format(3.1415926))
+    print ("π={:.2f}".format(math.pi))
     print("2*2/4*100**2-100**2={}".format(2*2/4*100**2-100**2))
 
 if __name__ == "__main__":
